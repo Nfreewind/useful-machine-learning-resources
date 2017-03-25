@@ -1,6 +1,6 @@
 ## Useful Machine Learning resources
 #### Blogs
-+ <a href="http://machinelearningmastery.com/">Machine Learning Mastery</a> by Jason Brownlee 
++ <a href="http://machinelearningmastery.com/">Machine Learning Mastery</a> - excellent blog by Jason Brownlee 
 + <a href="http://blog.bigml.com/2012/05/04/machine-learning-in-python-has-never-been-easier/" target="_blank">Machine Learning in Python </a> - on bigml.com
 + <a href="http://jamesfeltonkeith.com/2015/04/30/a-tour-of-machine-learning-algorithms/" target="_blank">A Tour of Machine Learning Algorithms </a> - blog of JFK
 
