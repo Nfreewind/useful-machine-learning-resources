@@ -13,4 +13,5 @@
 + <a href="http://deeplearning.net/"> Deep Learning</a> - variety of resources
 + <a href="http://www.deeplearningbook.org/"> Deep Learning book</a> by MIT Press
 + <a href="http://neuralnetworksanddeeplearning.com/"> Neural Networks and Deep Learning </a> - free online book
++ <a href="https://github.com/ChristosChristofidis/awesome-deep-learning/"> Deep Learning</a> - awesome resources
 
